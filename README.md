@@ -1,0 +1,2 @@
+# gszao
+Servidor GSZAO
